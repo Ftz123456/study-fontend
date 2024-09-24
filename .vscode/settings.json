@@ -1,0 +1,16 @@
+{
+    "i18n-ally.localesPaths": [
+        "src/locale",
+        "src/components/message-box/locale",
+        "src/views/login/locale",
+        "src/views/dashboard/workplace/locale",
+        "src/views/exception/403/locale",
+        "src/views/exception/404/locale",
+        "src/views/exception/500/locale",
+        "src/views/system/dept/locale",
+        "src/views/system/role/locale",
+        "src/views/system/user/locale",
+        "src/views/ticket/manage/locale",
+        "src/views/user/setting/locale"
+    ]
+}
